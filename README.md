@@ -173,11 +173,6 @@ Yes, if you have experience with speaker embeddings, audio forensics, or Python.
 **ProtonMail:** `blende_32@protonmail.com`  
 **Threema:** `BA46EWMP`
 
-**Before contacting me:**
-
-- State your name and affiliation
-- Explain what you want to use this for
-- Don't ask for early access — it will be ignored
 
 ---
 
