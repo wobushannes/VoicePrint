@@ -163,14 +163,6 @@ You can try. But talk to a lawyer first. This is a technical tool, not a legal o
 **Can I contribute?**  
 Yes, if you have experience with speaker embeddings, audio forensics, or Python. Contact me.
 
-**Can I pay you to build a custom version?**  
-Yes. Contact me with your requirements.
-
-**Can I get the code now?**  
-Not yet. The repository is private until the first working version is ready. Follow the project for updates.
-
-**When will it be released?**  
-Q3/Q4 2026, depending on how much time I have.
 
 ---
 
